@@ -35,6 +35,7 @@ button {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #BB9F06;
     font-weight: bold;
+    margin: 15px;
 }
 .result-ctn {
     color: #BB9F06;
