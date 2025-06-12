@@ -25,6 +25,7 @@ input {
     color: inherit;
     border: none;
     border-radius: 5%;
+    margin: 15px;
 }
 
 button {
